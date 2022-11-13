@@ -33,7 +33,7 @@
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
     "query-string": "^6.11.0",
-    "razzle": "^3.0.0",
+    "razzle": "^4.2.18",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-intl": "^4.1.1",
